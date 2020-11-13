@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87ff1db8d345429e90b8415a42fd0b9f",
+    "revision": "19d48be4fcf5b56762dbf8532be4f132",
     "url": "/starwars-hooks/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-hooks/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "0d14c9f005df4b666def",
+    "revision": "264a23853beb011040f2",
     "url": "/starwars-hooks/static/css/main.88492e84.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-hooks/static/js/2.517a42a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d14c9f005df4b666def",
-    "url": "/starwars-hooks/static/js/main.fa74947b.chunk.js"
+    "revision": "264a23853beb011040f2",
+    "url": "/starwars-hooks/static/js/main.6c8bf54b.chunk.js"
   },
   {
     "revision": "93a3cd341595a5006cd7",
