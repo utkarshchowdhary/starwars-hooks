@@ -1,0 +1,31 @@
+.dropdown {
+  appearance: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0;
+}
+
+.dropdown:focus {
+  outline: none;
+}
+
+.dropdown--light {
+  border: 2px solid var(--blue);
+  background: var(--light-blue);
+  color: var(--blue);
+}
+
+.dropdown--dark {
+  border: 2px solid var(--red);
+  background: var(--light-red);
+  color: var(--red);
+}
+
+.dropdown--light.active {
+  background: var(--ocean-blue);
+  font-weight: 700;
+}
+
+.dropdown--dark.active {
+  background: var(--blood-red);
+  font-weight: 700;
+}
